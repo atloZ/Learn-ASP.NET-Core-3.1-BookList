@@ -6300,23 +6300,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zolta\\.nuget\\packages\\": {},
+    "C:\\Users\\Thinky\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zolta\\OneDrive\\prog\\C#\\Web\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+      "projectUniqueName": "C:\\Users\\Thinky\\OneDrive\\prog\\C#\\Web\\Learn-ASP.NET-Core-3.1-BookList\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
       "projectName": "BookListRazor",
-      "projectPath": "C:\\Users\\Zolta\\OneDrive\\prog\\C#\\Web\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
-      "packagesPath": "C:\\Users\\Zolta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zolta\\OneDrive\\prog\\C#\\Web\\BookListRazor\\BookListRazor\\obj\\",
+      "projectPath": "C:\\Users\\Thinky\\OneDrive\\prog\\C#\\Web\\Learn-ASP.NET-Core-3.1-BookList\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+      "packagesPath": "C:\\Users\\Thinky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Thinky\\OneDrive\\prog\\C#\\Web\\Learn-ASP.NET-Core-3.1-BookList\\BookListRazor\\BookListRazor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Zolta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thinky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
